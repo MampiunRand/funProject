@@ -1,0 +1,22 @@
+src/
+  |- controllers/
+  |    |- userController.js
+  |
+  |- domain/
+  |    |- entities/
+  |    |    |- User.js
+  |    |
+  |    |- services/
+  |    |    |- userService.js
+  |    |
+  |    |- repositories/
+  |         |- userRepository.js
+  |
+  |- infrastructure/
+  |    |- database/
+  |         |- index.js
+  |
+  |- routes/
+  |    |- userRoutes.js
+  |
+  |- app.js
